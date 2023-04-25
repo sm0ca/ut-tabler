@@ -10,8 +10,7 @@ Copyright and Usage Information
 
 This file is provided solely for the users of the UT-TABLER application.
 All forms of distribution of this code, whether as given or with any changes, are
-expressly prohibited. For more information on copyright for CSC111 materials,
-please consult our Course Syllabus.
+expressly prohibited.
 
 This file is Copyright (c) 2023 Anbuselvan Ragunathan, Sanchaai Mathiyarasan, Yathusan Koneswararajah
 """
@@ -89,11 +88,4 @@ def parse_course_options() -> list[str]:
 
 if __name__ == '__main__':
     import doctest
-    import python_ta
     doctest.testmod(verbose=True)
-    python_ta.check_all(config={
-        'max-line-length': 120,
-        'extra-imports': ['math', 'schedule_tree'],
-        'disable': ['unused-import', 'too-many-branches', 'too-many-nested-blocks'],
-        'allowed-io': ['SectInfo']
-    })
