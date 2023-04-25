@@ -12,7 +12,8 @@ All you need to do is enter the courses you'd like to take, rank your schedule p
 - xlsx2html
 
 ### Screenshots
-[WIP]
+
+<img src="https://user-images.githubusercontent.com/34463529/234350471-191c80f5-4ab8-4af9-befc-2dfaf5b60915.png" width="500"> <img src="https://user-images.githubusercontent.com/34463529/234350472-10d0fa58-9cf9-4f9f-8097-126af23b869e.png" width="500">
 
 ### Data Sources
 “2022 - 2023 Fall & Winter Session Timetable.” U Of T Faculty of Arts and Science 2022 / 2023 Timetable
