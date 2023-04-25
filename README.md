@@ -24,6 +24,6 @@ Nikel-Api. “Nikel-Datasets/Buildings.json at 408ffa685a1579cb00ba985a6c75102b9
 https://github.com/nikel-api/nikel-datasets/blob/408ffa685a1579cb00ba985a6c75102b9109e520/data/buildings.json.
 
 ### Copyright and Usage Information
-These file is provided solely for the users of the UT-TABLER application.
+These files are provided solely for the users of the UT-TABLER application.
 All forms of distribution of this code, whether as given or with any changes, are expressly prohibited.
 These files are Copyright (c) 2023 Anbuselvan Ragunathan, Sanchaai Mathiyarasan, Yathusan Koneswararajah
