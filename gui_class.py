@@ -248,13 +248,4 @@ class Program(QWidget):
 
 if __name__ == '__main__':
     import doctest
-    import python_ta
     doctest.testmod(verbose=True)
-    python_ta.check_all(config={
-        'max-line-length': 120,
-        'extra-imports': ['time', 'PyQt5.QtWidgets', 'PyQt5.QtGui', 'PyQt5.QtCore', 'PyQt5.QtWebEngineWidgets',
-                          'tree_computations', 'table_visualization'],
-        'disable': ['missing-attribute-type', 'too-many-statements', 'too-many-instance-attributes',
-                    'no-name-in-module', 'attribute-defined-outside-init'],
-        'allowed-io': ['']
-    })
