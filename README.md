@@ -13,3 +13,17 @@ All you need to do is enter the courses you'd like to take, rank your schedule p
 
 ### Screenshots
 [WIP]
+
+### Data Sources
+“2022 - 2023 Fall & Winter Session Timetable.” U Of T Faculty of Arts and Science 2022 / 2023 Timetable
+
+https://timetable.iit.artsci.utoronto.ca/.
+
+Nikel-Api. “Nikel-Datasets/Buildings.json at 408ffa685a1579cb00ba985a6c75102b9109e520 · Nikel-API/NikelDatasets.” GitHub,
+
+https://github.com/nikel-api/nikel-datasets/blob/408ffa685a1579cb00ba985a6c75102b9109e520/data/buildings.json.
+
+### Copyright and Usage Information
+These file is provided solely for the users of the UT-TABLER application.
+All forms of distribution of this code, whether as given or with any changes, are expressly prohibited.
+These files are Copyright (c) 2023 Anbuselvan Ragunathan, Sanchaai Mathiyarasan, Yathusan Koneswararajah
